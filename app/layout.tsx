@@ -10,7 +10,6 @@ export const metadata: Metadata = {
   title: 'GoHungarySportsTours - Minimalist Active Tours in Hungary',
   description: 'Discover authentic minimalist active tours in Hungary. Hiking, cycling, running, and walking experiences through pristine nature. gohungarysportstours.com',
   metadataBase: new URL('https://gohungarysportstours.com'),
-  generator: 'v0.app',
   icons: {
     icon: [
       {
