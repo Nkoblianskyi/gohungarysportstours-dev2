@@ -57,7 +57,7 @@ export const tours: Tour[] = [
     difficulty: 'moderate',
     activity: 'cycling',
     season: ['tavasz', 'nyár', 'ősz'],
-    startDate: '2026-04-20',
+    startDate: '2026-06-20',
     routeOverview: 'Karszt vidéken át vezető út, országutakon és vidéki útvonalakon keresztül, festői falvak mellett.',
     experienceLayers: [
       {
@@ -139,7 +139,7 @@ export const tours: Tour[] = [
     difficulty: 'easy',
     activity: 'walking',
     season: ['tavasz', 'nyár', 'ősz', 'tél'],
-    startDate: '2026-03-15',
+    startDate: '2026-05-15',
     routeOverview: 'Sík terepen a Tisza folyó mellett, parkos területeken és erdei ösvényeken.',
     experienceLayers: [
       {
@@ -226,7 +226,7 @@ export const tours: Tour[] = [
     difficulty: 'easy',
     activity: 'walking',
     season: ['tavasz', 'nyár', 'ősz'],
-    startDate: '2026-04-01',
+    startDate: '2026-07-01',
     routeOverview: 'Sík erdei terep minimális szintemelkedéssel, ideális bevezetés a természetbe.',
     experienceLayers: [
       {
